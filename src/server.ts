@@ -1,5 +1,6 @@
 import { App as Slack } from '@slack/bolt';
 
+import { handleCroqueYesNoAction } from './action-handlers';
 import {
   handleAvocadoMessage,
   handleBeerTimeMessage,
@@ -27,6 +28,8 @@ import {
   slack.message('!joke', handleJokeMessage);
   slack.message("Today it's the birthday of", handleTodayBirthdayMessage);
   slack.message('beer time', handleBeerTimeMessage);
+
+  slack.action({ block_id: 'croque-yesno' }, handleCroqueYesNoAction);
 
   await slack.start();
 
