@@ -19,23 +19,8 @@ yarn
 
 ### VSCode
 
-#### Plugins
-
-- https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-
-#### Workspace settings
-
-```json
-{
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-  },
-  "eslint.validate": [
-    "javascript",
-    "typescript",
-  ],
-}
-```
+All suggested extensions and settings can be found in the `.vscode` directory.
+When opening the repo for the first time you will be prompted to install the suggested extensions.
 
 ## Linting
 
