@@ -1,9 +1,9 @@
-# @wouterds/craftzing-slack-bot
+# @craftzing/slack-bot
 
-[![code-review](https://github.com/wouterds/craftzing-slack-bot/workflows/code-review/badge.svg)](https://github.com/wouterds/craftzing-slack-bot/actions/workflows/code-review.yml)
-[![release](https://github.com/wouterds/craftzing-slack-bot/workflows/release/badge.svg)](https://github.com/wouterds/craftzing-slack-bot/actions/workflows/release.yml)
-![docker image version](https://ghcr-badge.deta.dev/wouterds/craftzing-slack-bot/latest_tag?label=latest)
-![docker image size](https://ghcr-badge.deta.dev/wouterds/craftzing-slack-bot/size)
+[![code-review](https://github.com/craftzing/slack-bot/workflows/code-review/badge.svg)](https://github.com/craftzing/slack-bot/actions/workflows/code-review.yml)
+[![release](https://github.com/craftzing/slack-bot/workflows/release/badge.svg)](https://github.com/craftzing/slack-bot/actions/workflows/release.yml)
+![docker image version](https://ghcr-badge.deta.dev/craftzing/slack-bot/latest_tag?label=latest)
+![docker image size](https://ghcr-badge.deta.dev/craftzing/slack-bot/size)
 
 ## Setup
 

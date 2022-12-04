@@ -1,5 +1,5 @@
 {
-  "name": "@wouterds/craftzing-slack-bot",
+  "name": "@craftzing/slack-bot",
   "version": "1.5.0",
   "private": true,
   "scripts": {
